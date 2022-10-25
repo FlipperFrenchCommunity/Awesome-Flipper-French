@@ -12,7 +12,7 @@ Dans ce repo vous trouverez diverses sections de contenu (vidéos, guide, etc...
 
 Votre contenu n'a pas de catégorie idéale? Pas de panique! Vous pouvez en créer une pour lui dans votre pull request!
 
-Si vous voulez ajoutez votre repo, mais vous ne savez pas vraiment si il aurait sa place directement dans notre Awesome Liste, vous pouvez faire une adhésion membre à notre organisation, et ainsi pouvoir importer et apporter des modifications à votre code.
+Si vous voulez ajoutez votre repo, mais vous ne savez pas vraiment si il aurait sa place directement dans notre Awesome Liste, vous pouvez faire une adhésion membre à notre organisation, et ainsi pouvoir importer et apporter des modifications à votre code. Pour celà rejoignez nous sur <a href="https://t.me/flipper_zero_french">Telegram</a> et faites nous part de votre demande en fournissant l'URL de votre profil GitHub.
 
 <hr>
 
