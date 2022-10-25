@@ -15,3 +15,8 @@ Votre contenu n'a pas de catégorie idéale? Pas de panique! Vous pouvez en cré
 Si vous voulez ajoutez votre repo, mais vous ne savezait pas vraiment si il aurait sa place directement dans notre Awesome Liste, vous pouvez faire une adhésion membre à notre organisation, et ainsi pouvoir importer et apporter des modifications à votre code.
 
 <hr>
+
+## Contenu
+
+* <a href="/videos">Vidéos</a> : Liste de liens de vidéos.
+* <a href="/membre_repo">Membres Repo</a> : Liste des repo présent dans notre organisation, importé par nos membres.
