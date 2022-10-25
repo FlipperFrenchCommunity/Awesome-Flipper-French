@@ -1,6 +1,10 @@
-# Awesome-Flipper-French
+<hr>
 
-Dans cette collection Awesome, vous trouverez une liste de nos ressources françaises.
+<a href="https://github.com/FlipperFrenchCommunity/Awesome-Flipper-French">
+  <img src="https://user-images.githubusercontent.com/22322762/197898515-decfa1aa-c72b-4132-ab14-561dad9aa1de.png" align="center">
+</a>
+
+<hr>
 
 ## Comment contribuer?
 
@@ -9,3 +13,5 @@ Dans ce repo vous trouverez diverses sections de contenu (vidéos, guide, etc...
 Votre contenu n'a pas de catégorie idéale? Pas de panique! Vous pouvez en créer une pour lui dans votre pull request!
 
 Si vous voulez ajoutez votre repo, mais vous ne savezait pas vraiment si il aurait sa place directement dans notre Awesome Liste, vous pouvez faire une adhésion membre à notre organisation, et ainsi pouvoir importer et apporter des modifications à votre code.
+
+<hr>
