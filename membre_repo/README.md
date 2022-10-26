@@ -8,4 +8,4 @@ Ci-joint vous trouverez une liste des repo présent dans notre organisation impo
 
 ## FAP & Code Source
 
-<a href="https://github.com/FlipperFrenchCommunity/myfirstapp">MyFirstApp</a> : Code source avec README d'un projet dans le but d'apprendre à faire un fap pour le Flipper Zero.  
+[BoxMover_PoC](https://github.com/FlipperFrenchCommunity/BoxMover_PoC): Code source avec README d'un projet dans le but d'apprendre à faire un fap pour le Flipper Zero.  
