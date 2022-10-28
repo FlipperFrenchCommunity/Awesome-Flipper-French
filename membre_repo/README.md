@@ -1,6 +1,6 @@
-# Membres Repo
+# Dépôts des membres
 
-Ci-joint vous trouverez une liste des repo présent dans notre organisation importer par nos membres.
+Ci-joint vous trouverez une liste des dépôts présent dans notre organisation importer par nos membres.
 
 ## Contenu
 
@@ -8,4 +8,8 @@ Ci-joint vous trouverez une liste des repo présent dans notre organisation impo
 
 ## FAP & Code Source
 
-[BoxMover_PoC](https://github.com/FlipperFrenchCommunity/BoxMover): Code source avec README d'un projet dans le but d'apprendre à faire un fap pour le Flipper Zero.  
+### Apprendre à créer une application
+1. [BoxMover](https://github.com/FlipperFrenchCommunity/BoxMover): Déplacer un
+   point sur l'affichage pour apprendre à utiliser une boucle d'événements.
+2. [ViewTester](https://github.com/FlipperFrenchCommunity/ViewTester): Gestion
+   graphique avec les vues (GUI and View). 
