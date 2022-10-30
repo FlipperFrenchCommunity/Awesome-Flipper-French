@@ -9,8 +9,8 @@
 ### GPIO<a name="GPIO"></a>
 <a href="https://www.youtube.com/watch?v=kG5jZiwEDtk">Prototype Sonde CO2 (Sensiron SCD-30)</a>  
 <a href="https://www.youtube.com/watch?v=WvaENplg1rs">USB-UART mode serial connection Ubiquiti EdgeRouter X</a>
-<a href="https://www.youtube.com/watch?v=1eYUuGCJjxE">LED sur ports GPIO</a>
-<a href="https://www.youtube.com/watch?v=fp9r6MTUW9A">PWM ou MLI sur ports GPIO</a>
+<a href="https://www.youtube.com/watch?v=1eYUuGCJjxE">LED sur ports GPIO</a>  
+<a href="https://www.youtube.com/watch?v=fp9r6MTUW9A">PWM ou MLI sur ports GPIO</a>  
 
 
 ### SubGHz<a name="SubGHz"></a>
