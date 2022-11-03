@@ -9,7 +9,10 @@ Ci-joint vous trouverez une liste des dépôts présent dans notre organisation 
 ## FAP & Code Source
 
 ### Apprendre à créer une application
+0. [Template](https://github.com/FlipperFrenchCommunity/template): Templates
+   pour créer une application. 
 1. [BoxMover](https://github.com/FlipperFrenchCommunity/BoxMover): Déplacer un
    point sur l'affichage pour apprendre à utiliser une boucle d'événements.
 2. [ViewTester](https://github.com/FlipperFrenchCommunity/ViewTester): Gestion
-   graphique avec les vues (GUI and View). 
+   graphique avec les vues (GUI and View).
+3. [uart_study](https://github.com/FlipperFrenchCommunity/uart_study): Découverte du protocole UART.
