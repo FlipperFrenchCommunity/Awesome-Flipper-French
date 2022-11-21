@@ -18,6 +18,6 @@ Si vous voulez ajoutez votre dépôt, mais vous ne savez pas vraiment si il aura
 <hr>
 
 ## Contenu
-
+* [Foire aux questions](https://github.com/FlipperFrenchCommunity/Awesome-Flipper-French/blob/main/membre_repo/FAQ.md)
 * <a href="/videos">Vidéos</a> : Liste de liens de vidéos.
 * <a href="/membre_repo">Dépôts des membres</a> : Liste des dépôts présent dans notre organisation, importé par nos membres.

@@ -1,10 +1,12 @@
 # Dépôts des membres
 
 Ci-joint vous trouverez une liste des dépôts présent dans notre organisation importer par nos membres.
-
+Une [foire aux questions](https://github.com/FlipperFrenchCommunity/Awesome-Flipper-French/blob/main/membre_repo/FAQ.md)
+est disponible.
 ## Contenu
 
 * [FAP & Code Source](#FAP)
+* [Foire aux questions](https://github.com/FlipperFrenchCommunity/Awesome-Flipper-French/blob/main/membre_repo/FAQ.md)
 
 ## FAP & Code Source
 
