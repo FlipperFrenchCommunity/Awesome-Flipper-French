@@ -8,9 +8,9 @@ faire une recherche de dans. Le canal [Flipper News](https://t.me/FlipperNews)
 est une super source d'informations sur les sorties vidéos ou dépôts GitHub.
 ## Communauté francophone
 * [Flipper French Community](https://github.com/FlipperFrenchCommunity)
-* [Telegram Flipper zero french](https://t.me/flipper_zero_french)
   * [Dépôts des membres avec divers projets](https://github.com/FlipperFrenchCommunity/Awesome-Flipper-French/tree/main/membre_repo)
   * [Vidéos](https://github.com/FlipperFrenchCommunity/Awesome-Flipper-French/tree/main/videos)
+* [Telegram Flipper zero french](https://t.me/flipper_zero_french)
 * [YouTube Sam's eXperiments logs](https://www.youtube.com/user/sammy88rox)
 ## Documentations
 * [Documentations officiel](https://docs.flipperzero.one/)
