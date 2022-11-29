@@ -20,4 +20,6 @@ est disponible.
    Debugger Module.
 3. [ViewTester](https://github.com/FlipperFrenchCommunity/ViewTester): Gestion
    graphique avec les vues (GUI and View).
-4. [uart_study](https://github.com/FlipperFrenchCommunity/uart_study): Découverte du protocole UART.
+4. [GpioController](https://github.com/FlipperFrenchCommunity/GpioController):
+   Gérer les entrées et sorties du connecteur d'extension (GPIO).
+5. [uart_study](https://github.com/FlipperFrenchCommunity/uart_study): Découverte du protocole UART.
