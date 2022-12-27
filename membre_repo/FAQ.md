@@ -20,6 +20,16 @@ est une super source d'informations sur les sorties vidéos ou dépôts GitHub.
 * [Officiel](https://github.com/flipperdevices/flipperzero-firmware)
 * [Unleashed](https://github.com/DarkFlippers/unleashed-firmware/)
 * [RogueMaster](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
+* [Xtreme](https://github.com/ClaraCrazy/Flipper-Xtreme)
+### Compilation
+* [How To
+Build](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/documentation/HowToBuild.md): Comment compiler un micro-logiciel par Unleashed.
+* [Flipper Build Tool](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/documentation/fbt.md): Outil complet pour gérer toutes les phases de la compilation, le téléversement et le diagnostique.
+### Upload
+* [Firmware update](https://docs.flipperzero.one/basics/firmware-update): Site officiel
+* [How To
+Install](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/documentation/HowToInstall.md): Les divers posssibilité pour mettre le micro-logiciel à jour par Unleashed.
+* [Flipper Build Tool](https://github.com/DarkFlippers/unleashed-firmware/blob/dev/documentation/fbt.md): Outil complet pour gérer toutes les phases de la compilation, le téléversement et le diagnostique.
 ## Forums
 * [Officiel](https://forum.flipperzero.one/)
 ## Telegram
